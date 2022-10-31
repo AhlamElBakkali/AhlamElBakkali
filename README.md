@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on  My final-year project 
 
-- 🌱 I’m currently learning **CSS , JEE , PHP , LARAVEL , JAVA**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at (LOADING ...)
 
